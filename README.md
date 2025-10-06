@@ -1,4 +1,4 @@
-# Trendyol Bot - Automated Product Search and Cart Addition
+# Tr^^^^^& Bot - Automated Product Search and Cart Addition
 
 ## 📋 Overview
 
